@@ -1,0 +1,14 @@
+[
+  { "building_addreg_id": 751970, "geonim": "Мамыр-1", "city": "Алматы", "geonimtype": "микрорайон", "number": "18" },
+  { "building_addreg_id": 751969, "geonim": "Мамыр-1", "city": "Алматы", "geonimtype": "микрорайон", "number": "29/1" },
+  { "building_addreg_id": 751972, "geonim": "Абая", "city": "Алматы", "geonimtype": "улица", "number": "151/115" },
+  { "building_addreg_id": 751972, "geonim": "Мамыр-1", "city": "Алматы", "geonimtype": "микрорайон", "number": "29/8" },
+  { "building_addreg_id": 751971, "geonim": "Мамыр-4", "city": "Алматы", "geonimtype": "микрорайон", "number": "183" },
+  { "building_addreg_id": "0201300325890506", "city": "п.Зачаганск", "geonim": "Жангир Хана 52/6", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300316480200", "city": "п.Зачаганск", "geonim": "Жангир Хана 27/1", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300143328807", "city": "п.Зачаганск", "geonim": "Жангир Хана 43", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300298830507", "city": "г.Уральск", "geonim": "М.Ауезова 16", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300037895303", "city": "г.Уральск", "geonim": "Гоголя 19", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300037896101", "city": "г.Уральск", "geonim": "Гоголя 41", "geonimtype": "УЛИЦА" },
+  { "building_addreg_id": "0201300037896204", "city": "г.Уральск", "geonim": "Гоголя 43", "geonimtype": "УЛИЦА" }
+]
